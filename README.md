@@ -9,7 +9,7 @@
 
 ## Resumen
 
-Proyecto Integrandor Parte Backend usando ASP.NET, SQL Server, Github.
+Proyecto Integrador Parte Backend usando ASP.NET, SQL Server, Github.
 
 ## Objetivos
 
