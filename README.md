@@ -19,7 +19,7 @@ Este proyecto en la cuál fui asignado cumple con los siguientes objetivos:
 
 ## Librerías y dependencias
 
-1. Boostrap : Esta biblioteca me facilita el trabajo al maquetar y diseñar la interfaz. Es un buen complemento junto a flexbox.
+1. Bootstrap : Esta biblioteca me facilita el trabajo al maquetar y diseñar la interfaz. Es un buen complemento junto a flexbox.
 
 ## Herramientas
 
